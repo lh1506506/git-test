@@ -1,0 +1,24 @@
+# 编译输出
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# VS 临时
+.vs/
+*.suo
+*.user
+
+# 编译产物
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# 日志/临时
+*.log
+*.tmp
+Thumbs.db
